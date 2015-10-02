@@ -31,7 +31,7 @@ class viewTwo : UIViewController{
     }
 
     
-    // check
+    // check2
     func checkCorrect(){
         if userAnswers[0].lowercaseString == "hilary" {
             self.display2.text  = "Your first answer: correct"
